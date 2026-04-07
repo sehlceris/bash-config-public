@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Ensure ~/.bash-config exists
 CONFIG_DIR="$HOME/.bash-config"
